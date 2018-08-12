@@ -6,3 +6,4 @@ TODO
 
 1. Add notes containing some of the key insightful things learnt in each chapter
 2. Add notes containing some of the concepts I still need to spend time understanding
+3. Also do the exercises in Part II (case study section)
